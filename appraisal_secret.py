@@ -1,4 +1,13 @@
 APP_KEY = ["ByUA4Euv6bSt"]
 APP_SEC = ["ZMQi7jfVXnwWB3cS3Jkvt1ZXYuIyASRt"]
+'''
+Method:GET
 OAUTH_TOKEN = ["Req5cOg37KKl"]
 OAUTH_TOKEN_SECRET = ["Z9GNRFGMtymoSAqrQnLjRL2l"]
+'''
+
+'''
+Method:POST
+'''
+OAUTH_TOKEN = ["ReqsVG8aHSdK"]
+OAUTH_TOKEN_SECRET = ["GMpNbm6Zht8NhCZG4sDVUVys"]
