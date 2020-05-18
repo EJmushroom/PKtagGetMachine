@@ -25,7 +25,7 @@ def get_access_token(app_key, app_secret, oauth_token, oauth_token_secret, oauth
 if __name__ == '__main__':
     import appraisal_secret as config
     fetched_oauth = get_request_token(config.APP_KEY, config.APP_SEC)
-    oauth_token = fetched_oauth[b'oauth_token'][0].decode("utf-8")
+    oauth_token = fetched_oauth['oauth_token'][0].decode("utf-8")
     oauth_token_secret = fetched_oauth[b'oauth_token_secret'][0].decode("utf-8")
     print(oauth_token, oauth_token_secret)
     print("https://www.plurk.com/OAuth/authorize?oauth_token="+oauth_token)
