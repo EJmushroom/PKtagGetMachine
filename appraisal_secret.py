@@ -1,0 +1,2 @@
+APP_KEY = ["ByUA4Euv6bSt"]
+APP_SEC = ["ZMQi7jfVXnwWB3cS3Jkvt1ZXYuIyASRt"]
